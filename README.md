@@ -1,4 +1,4 @@
-================================================================= ENJOY! =================================================================================
+====================== ENJOY! =================
 
 "Snakes and Ladders" is a classic board game enjoyed by people of all ages around the world. 
 It's a game of chance that involves rolling dice and moving tokens across a numbered grid. 
@@ -17,4 +17,4 @@ This makes it a simple and entertaining game suitable for players of all ages.
 Snakes and Ladders is often used as a tool for teaching young children basic counting skills and the concept of cause and effect, 
 as well as for recreational purposes among friends and family.
 
-================================================================= ENJOY! =================================================================================
+====================== ENJOY! =================
